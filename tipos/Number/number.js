@@ -9,7 +9,7 @@ const twoDecim = myNumber.toFixed(2);
 console.log('Número com duas casas decimais: ', twoDecim);
 
 //Transforma uma string em float
-console.log('Strng parceada para float: ', parseFloat(myNumber));
+console.log('String parceada para float: ', parseFloat(myNumber));
 
 //Transforma uma string em int
 console.log('String parceada para int: ', parseInt(myNumber));
